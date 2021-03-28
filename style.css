@@ -1,0 +1,64 @@
+.Texts1{
+    padding-top : 50px;
+    padding-bottom : 50px;
+    align-items: center;
+    display:flex;
+
+ 
+    margin: auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+   
+    border-radius: 40px;
+    background-color: rgb(182, 194, 206);
+    width: 900px;; 
+}
+
+.Texts2{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 0;
+
+    align-items: center;
+    margin: auto;
+    display: flex;
+
+    flex-direction: column;
+    border-radius:40px;
+    background-color: white;
+  
+}
+.theTop{
+font-family: cursive;
+color: blanchedalmond;
+}
+
+.Header
+{
+color: white;
+text-align: center;
+font-family: sans-serif;
+}
+
+a:link p
+{
+    background-color:rgb(182, 194, 206);
+    color:rgb(0, 0, 0);
+    padding: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+    
+    display: inline-block;
+}
+
+a:hover p
+{
+transform: scale(1.1);
+background-color: rgb(90, 110, 129);
+}
+
+a:visited p
+{
+    background-color: rgb(145, 32, 32);
+}
